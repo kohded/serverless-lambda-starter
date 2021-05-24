@@ -1,0 +1,7 @@
+.tsbuildinfo
+/.build
+/.serverless
+/config/ssl
+/coverage
+/dist
+/node_modules
